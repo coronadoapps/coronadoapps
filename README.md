@@ -2,7 +2,7 @@
 ##### I'm an electronic engineer⚡ & jr software developer👨‍💻 who is passionate about writing code, solving problems, automating stuff, and building software.
 
 ---
-### about me in code
+### about me in code 📌
 ```js
 const coronadoapps = {
   pronouns: "he" | "him",
@@ -12,21 +12,17 @@ const coronadoapps = {
 
 ```
 ---
-<h3 align="center">Top Langs :tongue:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coronadoapps&langs_count=5&theme=tokyonight&layout=compact" alt="coronadoapps::TopLangs" />
-</p>
+### top langs :tongue:
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coronadoapps&langs_count=5&theme=tokyonight&layout=compact" alt="coronadoapps::TopLangs" />
+
+
+
+
+
 
 
 ---
 ⭐️ from [coronadoapps](https://github.com/coronadoapps)
-
-
-
-
-
-
-
 <!--
 **coronadoapps/coronadoapps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
