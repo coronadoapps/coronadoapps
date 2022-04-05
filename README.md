@@ -1,4 +1,4 @@
-## Hi there, I'm Stiven 👋
+## Hi there, I'm stiven 👋
 ##### I'm an electronic engineer⚡ & jr software developer👨‍💻 who is passionate about writing code, solving problems, automating stuff, and building software.
 
 ---
@@ -7,7 +7,7 @@
 const coronadoapps = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS, Python, Java],
-  tools:  [Bootstrap, React, Git, Flask]
+  tools:  [Linux, React, Github, Flask]
 }
 
 ```
