@@ -1,13 +1,12 @@
 ## Hi there, I'm stiven 👋
-##### I'm an electronic engineer⚡ & software engineer jr👨‍💻 who is passionate about writing code, solving problems, automating stuff, and building software.
+##### I'm an electronic engineer⚡ who is passionate about writing code, solving problems, automating stuff, and building software.
 
 ---
 ### about me in code 📌
 ```js
 const coronadoapps = {
-  pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS, Python, Java],
-  tools:  [Linux, React, Github, Flask]
+  code: [Javascrip, Python],
+  tools:  [Linux, Github]
 }
 
 ```
